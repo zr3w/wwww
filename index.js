@@ -72,7 +72,7 @@ client.once('ready', async () => {
 
 
   client.user.setPresence({
-    activities: [{ name: '/ping | Made By Devansh', type: ActivityType.Watching }],
+    activities: [{ name: 'Hazard Nukers | /murderers', type: ActivityType.Streaming }],
     status: 'online',
   });
 
